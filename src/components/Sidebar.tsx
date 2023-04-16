@@ -27,7 +27,7 @@ export function Sidebar () {
 
           <div className='space-y-5'>
           <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400  mt-9 hover:text-zinc-200'>
-            <AiFillFolderAdd className='text-zinc-400' size={26} />
+            <AiFillFolderAdd className='text-zinc-400 hover:text-zinc-200' size={26} />
             Create playlist
           </a>
           <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400 hover:text-zinc-200'>
