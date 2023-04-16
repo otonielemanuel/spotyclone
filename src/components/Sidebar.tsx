@@ -16,21 +16,21 @@ export function Sidebar () {
             <HiHome size={26} />
             Home
           </a>
-          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400'>
+          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400 hover:text-zinc-200'>
             <Search />
             Search
           </a>
-          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400'>
+          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400 hover:text-zinc-200'>
             <Library />
             Your library
           </a>
 
           <div className='space-y-5'>
-          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400  mt-9'>
+          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400  mt-9 hover:text-zinc-200'>
             <AiFillFolderAdd className='text-zinc-400' size={26} />
             Create playlist
           </a>
-          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400'>
+          <a href="" className='flex items-center gap-3 text-sm font-bold text-zinc-400 hover:text-zinc-200'>
             <div className='bg-indigo-800 w-6 h-6 flex items-center  justify-center'>
             <AiFillHeart />
             </div>

@@ -8,8 +8,8 @@ export function Footer () {
         <div className='flex items-center gap-2'>
         <Image src="/icarus.jpg" width={55} height={55} alt="Imagem album sugestão Spotify" />
         <div className='flex flex-col'>
-          <strong className='font-semibold'>Música de amor nunca mais</strong>
-          <span className='text-xs text-zinc-400'>BK, Luccas carlos, Nansy Silvvz, Gigantes</span>
+          <strong className='font-semibold cursor-pointer hover:underline'>Música de amor nunca mais</strong>
+          <span className='text-xs text-zinc-400 cursor-pointer hover:underline'>BK, Luccas carlos, Nansy Silvvz, Gigantes</span>
         </div>
         </div>
 

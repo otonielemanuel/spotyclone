@@ -68,7 +68,7 @@ export default function Main() {
             </a>
           </div>
 
-          <h2 className='font-bold text-2xl mt-8'>Mode for otonielemanuel</h2>
+          <h2 className='font-bold text-2xl mt-8 cursor-pointer hover:underline'>Mode for otonielemanuel</h2>
           <div className='grid grid-cols-5 gap-4 mt-5'>
             <a className="bg-black/10 p-3 rounded-md group flex flex-col gap-2 transition-colors hover:bg-white/10">
               <Image src="/icarus.jpg" className=' rounded-md' width={300} height={300} alt="Imagem album sugestão Spotify" />
@@ -112,7 +112,7 @@ export default function Main() {
             </a>
           </div>
 
-          <h2 className='font-bold text-2xl mt-8'>Your most listened to mixes</h2>
+          <h2 className='font-bold text-2xl mt-8 cursor-pointer hover:underline'>Your most listened to mixes</h2>
           <div className='grid grid-cols-5 gap-4 mt-5'>
             <a className="bg-black/10 p-3 rounded-md group flex flex-col gap-2 transition-colors hover:bg-white/10">
               <Image src="/okenio.jpg" className='w-full rounded-md' width={300} height={300} alt="Imagem album sugestão Spotify" />
@@ -157,7 +157,7 @@ export default function Main() {
           </div>
 
           
-          <h2 className='font-bold text-2xl mt-8'>Recently played</h2>
+          <h2 className='font-bold text-2xl mt-8 cursor-pointer hover:underline'>Recently played</h2>
           <div className='grid grid-cols-5 gap-4 mt-5'>
             <a className="bg-black/10 p-3 rounded-md group flex flex-col gap-2 transition-colors hover:bg-white/10">
               <Image src="/icarus.jpg" className='w-full rounded-md' width={300} height={300} alt="Imagem album sugestão Spotify" />
