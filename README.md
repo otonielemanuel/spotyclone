@@ -43,7 +43,7 @@ Para instalar e rodas esta aplicação em seu computador, siga os seguintes pass
 
 ## Screenshots
 
-> Esta aplicação pode ser encontrada em 
+> Esta aplicação pode ser encontrada em https://spotyclone-sigma.vercel.app/
 
 ### Home
 
