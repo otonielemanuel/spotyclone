@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">SPOTY CLONE</h1>
 
-## Getting Started
+<p>O Spotify é uma plataforma de streaming de música e podcasts criada em 2006. A plataforma oferece aos seus usuários acesso a milhões de músicas e podcasts de todo o mundo, permitindo que eles descubram novos artistas e gêneros musicais.</p>
 
-First, run the development server:
+<p>Além disso, o Spotify oferece recursos personalizados, como playlists recomendadas com base nos gostos do usuário e uma função de rádio personalizada que toca músicas semelhantes às que o usuário já ouviu.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+![RAM_LOGO_FINAL](https://user-images.githubusercontent.com/93485038/229370139-dd9f6535-62cb-4b0f-87d5-65e6001cbff0.jpg)
+
+## Descrição
+Esta é uma aplicação desenvolvida com React, TypeScript, Next e Tailwind CSS. Basicamente, este é um clone da minha página inicial da minha conta no Spotify
+
+![Captura de Ecrã (796)](https://user-images.githubusercontent.com/93485038/229370259-bcd4b1f8-6aef-44ba-928d-5f068d6334bf.png)
+
+
+## 👨🏽‍💻 Instalação
+
+### Este projecta foi desenvolvido com <a href="https://react.dev/learn/start-a-new-react-project">npx create-next-app</a>
+
+<p>⚠️ Certifique-se que tena todo o ambiente de desenvolvimento react instalado em seu computador.</p>
+
+Para instalar e rodas esta aplicação em seu computador, siga os seguintes passos:
+
+<strong><p>Clone o repositório com o seguinte comando:</p></strong>
+
+```
+  git clone https://github.com/otonielemanuel/spotyclone.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<strong><p>Navegue até a pasta do projecto com o seguinte comando:</p></strong>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+  cd spotyclone
+```
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+<strong><p>Instale as dependências com:</p></strong>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+  npm install
+```
 
-## Learn More
+<strong><p>E finalmente execute o comando à baixo para rodar:</p></strong>
 
-To learn more about Next.js, take a look at the following resources:
+```
+  npm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Screenshots
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+> Esta aplicação pode ser encontrada em 
 
-## Deploy on Vercel
+### Home
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Captura de Ecrã (792)](https://user-images.githubusercontent.com/93485038/229369522-80db73fa-4581-403a-b83b-665b07921c98.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Creditos
+
+Esta aplicação foi criada por mim Otoniel Emanuel. E foi inspirado em um dos vídeos do Diego Fernandes da Rocketseat. 
+
+### 📱 Minhas redes sociais
+
++ <a href="https://www.linkedin.com/in/otoniel-emanuel-b80727261/">LinkedIn</a>
++ <a href="https://www.instagram.com/eusouootis_">Instagram</a>
