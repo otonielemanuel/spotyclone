@@ -4,7 +4,7 @@ import { AiFillFolderAdd, AiFillHeart  } from 'react-icons/ai'
 
 export function Sidebar () {
     return (
-        <aside className="w-60 bg-zinc-950 p-6">
+        <aside className="w-60 bg-black p-6">
         <div className='fixed h-full'>
         <div className='flex items-center gap-2 '>
           <div className="w-2 h-2 bg-red-500 rounded-full"></div>

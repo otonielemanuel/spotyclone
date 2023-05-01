@@ -1,7 +1,9 @@
 import Image from 'next/image';
 import { ChevronLeft, ChevronRight } from 'lucide-react'
 import { BsFillPlayFill } from 'react-icons/bs'
+
 export default function Main() {
+
   return (
     <main className="flex-1 p-6 mb-32">
           <div className='flex items-center justify-between'>
@@ -19,7 +21,7 @@ export default function Main() {
               <span className='font-semibold ml-2'>otonielemanuel</span>
             </div>
           </div>
-          </div> 
+          </div>
 
           <h1 className='font-bold text-3xl mt-9'>Good Morning</h1>
 
@@ -68,7 +70,10 @@ export default function Main() {
             </a>
           </div>
 
-          <h2 className='font-bold text-2xl mt-8'>Mode for otonielemanuel</h2>
+          <div className='flex justify-between'>
+            <h2 className='font-bold text-2xl mt-8 cursor-pointer hover:underline'>Mode for otonielemanuel</h2>
+            <p className='font-bold text-zinc-400 text-sm mt-12 cursor-pointer hover:underline'>Show more</p>
+          </div>
           <div className='grid grid-cols-5 gap-4 mt-5'>
             <a className="bg-black/10 p-3 rounded-md group flex flex-col gap-2 transition-colors hover:bg-white/10 cursor-pointer">
               <Image src="/icarus.jpg" className=' rounded-md' width={300} height={300} alt="Imagem album sugestão Spotify" />
@@ -112,7 +117,10 @@ export default function Main() {
             </a>
           </div>
 
-          <h2 className='font-bold text-2xl mt-8'>Your most listened to mixes</h2>
+          <div className='flex justify-between'>
+            <h2 className='font-bold text-2xl mt-8 cursor-pointer hover:underline'>Your most listened to mixes</h2>
+            <p className='font-bold text-zinc-400 text-sm mt-12 cursor-pointer hover:underline'>Show more</p>
+          </div>
           <div className='grid grid-cols-5 gap-4 mt-5'>
             <a className="bg-black/10 p-3 rounded-md group flex flex-col gap-2 transition-colors hover:bg-white/10 cursor-pointer">
               <Image src="/okenio.jpg" className='w-full rounded-md' width={300} height={300} alt="Imagem album sugestão Spotify" />
@@ -157,7 +165,11 @@ export default function Main() {
           </div>
 
           
-          <h2 className='font-bold text-2xl mt-8'>Recently played</h2>
+
+          <div className='flex justify-between'>
+            <h2 className='font-bold text-2xl mt-8 cursor-pointer hover:underline'>Recently played</h2>
+            <p className='font-bold text-zinc-400 text-sm mt-12 cursor-pointer hover:underline'>Show more</p>
+          </div>
           <div className='grid grid-cols-5 gap-4 mt-5'>
             <a className="bg-black/10 p-3 rounded-md group flex flex-col gap-2 transition-colors hover:bg-white/10 cursor-pointer">
               <Image src="/icarus.jpg" className='w-full rounded-md' width={300} height={300} alt="Imagem album sugestão Spotify" />
