@@ -50,6 +50,7 @@ Para instalar e rodas esta aplicação em seu computador, siga os seguintes pass
 <img src="./public/Readme/Captura de Ecrã (112).png" />
 <br />
 <img src="./public/Readme/Captura de Ecrã (113).png" />
+<br />
 <img src="./public/Readme/Captura de Ecrã (114).png" />
 
 ## Creditos
