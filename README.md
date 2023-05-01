@@ -4,13 +4,10 @@
 
 <p>Além disso, o Spotify oferece recursos personalizados, como playlists recomendadas com base nos gostos do usuário e uma função de rádio personalizada que toca músicas semelhantes às que o usuário já ouviu.</p>
 
-![RAM_LOGO_FINAL](https://user-images.githubusercontent.com/93485038/229370139-dd9f6535-62cb-4b0f-87d5-65e6001cbff0.jpg)
+<img src="./public/Readme/spotyreadme.jpg" />
 
 ## Descrição
-Esta é uma aplicação desenvolvida com React, TypeScript, Next e Tailwind CSS. Basicamente, este é um clone da minha página inicial da minha conta no Spotify
-
-![Captura de Ecrã (796)](https://user-images.githubusercontent.com/93485038/229370259-bcd4b1f8-6aef-44ba-928d-5f068d6334bf.png)
-
+Esta é uma aplicação desenvolvida com React, TypeScript, Next e Tailwind CSS. Basicamente, este é um clone da minha página inicial da minha conta no Spotify.
 
 ## 👨🏽‍💻 Instalação
 
@@ -50,7 +47,9 @@ Para instalar e rodas esta aplicação em seu computador, siga os seguintes pass
 
 ### Home
 
-![Captura de Ecrã (792)](https://user-images.githubusercontent.com/93485038/229369522-80db73fa-4581-403a-b83b-665b07921c98.png)
+<img src="./public/Readme/Captura de Ecrã (112).png" />
+<br />
+<img src="./public/Readme/Captura de Ecrã (113).png" />
 
 ## Creditos
 
